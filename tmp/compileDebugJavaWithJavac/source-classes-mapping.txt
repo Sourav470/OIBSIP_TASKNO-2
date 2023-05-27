@@ -1,0 +1,26 @@
+net/penguincoders/doit/DialogCloseListener.java
+ net.penguincoders.doit.DialogCloseListener
+net/penguincoders/doit/Adapters/ToDoAdapter.java
+ net.penguincoders.doit.Adapters.ToDoAdapter
+ net.penguincoders.doit.Adapters.ToDoAdapter$1
+ net.penguincoders.doit.Adapters.ToDoAdapter$ViewHolder
+net/penguincoders/doit/RecyclerItemTouchHelper.java
+ net.penguincoders.doit.RecyclerItemTouchHelper
+ net.penguincoders.doit.RecyclerItemTouchHelper$1
+ net.penguincoders.doit.RecyclerItemTouchHelper$2
+net/penguincoders/doit/Model/ToDoModel.java
+ net.penguincoders.doit.Model.ToDoModel
+net/penguincoders/doit/MainActivity.java
+ net.penguincoders.doit.MainActivity
+ net.penguincoders.doit.MainActivity$1
+net/penguincoders/doit/AddNewTask.java
+ net.penguincoders.doit.AddNewTask
+ net.penguincoders.doit.AddNewTask$1
+ net.penguincoders.doit.AddNewTask$2
+net/penguincoders/doit/Utils/DatabaseHandler.java
+ net.penguincoders.doit.Utils.DatabaseHandler
+net/penguincoders/doit/SplashActivity.java
+ net.penguincoders.doit.SplashActivity
+ net.penguincoders.doit.SplashActivity$1
+net/penguincoders/doit/BuildConfig.java
+ net.penguincoders.doit.BuildConfig
